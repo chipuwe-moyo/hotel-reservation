@@ -1,0 +1,15 @@
+html, body{
+    height: 100%;
+    background-image: url('../images/hotel-entrance.jpg');
+    background-size: cover;
+
+}
+#well1{
+    /*background-color: rgba(94, 97, 99, 0.7);*/
+    opacity: 0.9;
+    text-decoration-color: #dbdbdb;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+
